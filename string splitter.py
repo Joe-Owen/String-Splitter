@@ -27,7 +27,5 @@ def Split():
     if TempInputStorage != "NULL":
         InputArray.append(TempInputStorage)
         TempInputStorage = "NULL"
-    print(InputArray)
-    print(TempInputStorage)
 
 UserInputFunction()
